@@ -38,7 +38,7 @@ yarn
 ```
 ou
 ```
-npm insttall
+npm install
 ```
 
 - Rodando no emulador
